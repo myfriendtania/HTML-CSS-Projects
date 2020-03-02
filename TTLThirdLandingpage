@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>Tania's Third Landing Page</title>
+        <style>
+            body {
+                background: url("imgs/CreativeHarmfulAcaciarat-size_restricted.gif");
+                background-size: cover;
+                background-position: center;
+                color: brown;
+                font-family: 'Times New Roman';
+                font-size: medium;
+                text-align: center;
+                text-shadow: 1px 1px 3px pink ;
+            }
+            img { 
+                width: 440px;
+                height: 300px;
+                border-radius: 30%;
+                border: 2px solid gold;
+            }
+            main { 
+                border: 2px solid skyblue;
+                background-color: rgba(255, 212, 254, 0.666);
+                opacity: .9;
+                height: 600px;
+                width: 800px;
+                border-radius: 5%;
+                margin: 50px auto auto auto;
+                padding-top: 50px;
+            }
+            section {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+          <img src="./imgs/tania-882855.gif" alt="Tania Name Gif" > 
+          <h2>I'm a Young, Aspiring Developer</h2>
+         
+          <section>
+            <li> My name is Tania A Torres.</li>
+            <li> I love to learn new things!</li>
+            <li> I love adventure and experiences!</li>
+            <li> I dedicate myself to growth and nothing gets in the way of that.</li>
+          </section>
+        </main>
+    </body>
+</html>
