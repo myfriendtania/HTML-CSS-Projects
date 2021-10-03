@@ -3,6 +3,7 @@
     <title>Tania's fourth Landing page</title>
        <body>
            <h1> Welcome!!</h1>
+           <h3>Everything is CLICKABLE, so go wild</h3>
            </body>
            <style>
                 body {
@@ -30,28 +31,36 @@
                  width: 100px;
                  font-size: 15px;
                  border-radius: 10px;
-               }
-               #cimp {
+                }
+                #cimp {
                  font-size: 15px;
                  font-family: arial;
                  padding-top: 10px;
                  padding-bottom: 10px;
                  padding-left: 10px;
-               }
-               #select {
+                }
+                #select {
                  text-align: center;
                  padding-top: 10px;
-               }
-               
-           </style>      
+                 background-color: red;
+                }
+                .lowheader {
+                  height: 100px;
+                  width: 100px;
+                  background-color: red;
+                  animation-name: slide;
+                  animation-duration: 4s;
+
+                }
+           </style>
+           <div class= "lowheader"></div>      
 </head>
     <body>
       
-       <button onclick="location.href='mailto:ttorresbiz@gmail.com'">Email</button>
+       <button onclick="location.href='mailto:ttorresbiz@gmail.com'">Email me here!</button>
         <button onclick="sayHello()"> Say HELLO</button>
 
         <button onclick="location.href='https://www.feelyclub.com'">Shop Feelyclub</button>
-<!--- error when I click button to go to store ---->
 
 <script>
   function sayHello(){
@@ -62,12 +71,10 @@
        
     </body>
     <main>
-        <img id="cat" src="cat-wink.gif" alt="cat winking">
-         <div id="cimp">
-          
-          
+      <a href="https://open.spotify.com/playlist/6MymlZ7ozdhTVDDyWZ8DvG?si=c8a332c1109d4ea4"> <img id="cat" src="cat-wink.gif" alt="cat winking">
+
           <section>
-           <select name= "list" > 
+           <select name= "dropdown" > 
              <option>Some of my favourite rap artists</option>
              <option>Three 6 Mafia</option>
              <option>Bone Thugs & Harmony</option>
@@ -77,7 +84,10 @@
            </select>
           </section>
 
+
+    <div id="cimp">
        <a href="https://github.com/myfriendtania"> <img id="cimp" src="ZwGVteDh.gif" alt="CIMP" ></a>
       </div>
+
         </main>
 </html>
