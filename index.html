@@ -1,63 +1,97 @@
 <!DOCTYPE html>
-<head>
-    <title>Tania's fourth Landing page</title>
-       <body>
-           <h1> Welcome!!</h1>
-           <h3>Everything is CLICKABLE, so go wild</h3>
-           </body>
-           <style>
-                body {
-                   text-align: center;
-                   text-shadow: 8px 8px 8px black;
-                   font-family:'Times New Roman';
-                   font-size: large;
-                   color: skyblue;
-                   background-image: url(https://i.imgur.com/f95OviN.gif);
-                   min-height: 100vh;
-                   background-size: cover;
-                   background-position: left top;
-                   background-repeat: none;
-                }
-                #cat {
-                  width:450px;
-                  heigth: 540px;
-                  border-radius: 100%;
-                  border: 5px solid pink;
-                  float: left;
-                }
-                button {
-                 background-color: pink;
-                 height: 50px;
-                 width: 100px;
-                 font-size: 15px;
-                 border-radius: 10px;
-                }
-                #cimp {
-                 font-size: 15px;
-                 font-family: arial;
-                 padding-top: 10px;
-                 padding-bottom: 10px;
-                 padding-left: 10px;
-                }
-                #select {
-                 text-align: center;
-                 padding-top: 10px;
-                 background-color: red;
-                }
-                .lowheader {
-                  height: 100px;
-                  width: 100px;
-                  background-color: red;
-                  animation-name: slide;
-                  animation-duration: 4s;
 
-                }
-           </style>
-           <div class= "lowheader"></div>      
+<head>
+	<title>Tania's fourth Landing page</title>
+
+	<body>
+		<h1> Welcome!!</h1>
+	</body>
+	<style>
+		body {
+			text-align: center;
+			text-shadow: 8px 8px 8px black;
+			font-family: 'Times New Roman';
+			font-size: large;
+			color: skyblue;
+			background-image: url(https://i.imgur.com/f95OviN.gif);
+			min-height: 100vh;
+			background-size: cover;
+			background-position: left top;
+			background-repeat: none;
+		}
+
+		#cat {
+			width: 450px;
+			heigth: 540px;
+			border-radius: 100%;
+			border: 5px solid pink;
+			float: left;
+		}
+
+		button {
+			background-color: pink;
+			height: 50px;
+			width: 100px;
+			font-size: 15px;
+			border-radius: 10px;
+		}
+
+		#cimp {
+			font-size: 15px;
+			font-family: arial;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+		}
+
+		#select {
+			text-align: center;
+			padding-top: 10px;
+			background-color: red;
+		}
+
+		p {
+			animation-name: bounce;
+			animation-duration: 1.8s;
+      animation-iteration-count: infinite;
+      animation-timing-function: ease-in-out, step-start;
+		}
+
+		@keyframes bounce {
+			0% {
+				transform: scale(1, 1) translateY(0);
+			}
+			10% {
+				transform: scale(1.1, .9) translateY(0);
+			}
+			30% {
+				transform: scale(.9, 1.1) translateY(-100px);
+			}
+			50% {
+				transform: scale(1.05, .95) translateY(0);
+			}
+			57% {
+				transform: scale(1, 1) translateY(-7px);
+			}
+			64% {
+				transform: scale(1, 1) translateY(0);
+			}
+			100% {
+				transform: scale(1, 1) translateY(0);
+			}
+		}
+	</style>
+
 </head>
-    <body>
-      
-       <button onclick="location.href='mailto:ttorresbiz@gmail.com'">Email me here!</button>
+
+<body>
+	<div class="lowheader"></div>
+	<p>Everything is CLICKABLE, so GO WILD</p>
+</body>
+
+<body>
+
+	<button onclick="location.href='mailto:ttorresbiz@gmail.com'">Email me here!</button>
         <button onclick="sayHello()"> Say HELLO</button>
 
         <button onclick="location.href='https://www.feelyclub.com'">Shop Feelyclub</button>
