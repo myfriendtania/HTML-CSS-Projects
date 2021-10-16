@@ -5,18 +5,20 @@
 
 	<body>
 		<h1> Welcome!</h1>
-    
+
 	</body>
 	<style>
-    @font-face {
-				font-family: oldeenglishregular;
-				src: url("oldeenglishregular.ttf");
-    }
-    h1 {
-      text-align: center;
-      font-size: 80px;
+		@font-face {
 			font-family: oldeenglishregular;
-    }
+			src: url("oldeenglishregular.ttf");
+		}
+
+		h1 {
+			text-align: center;
+			font-size: 80px;
+			font-family: oldeenglishregular;
+		}
+
 		body {
 			text-align: center;
 			text-shadow: 8px 8px 8px black;
@@ -34,9 +36,9 @@
 			width: 450px;
 			heigth: 540px;
 			border-radius: 100%;
-      border: 15px dotted gold;
+			border: 15px dotted gold;
 			float: left;
-      padding-float: 10px;
+			padding-float: 10px;
 		}
 
 		button {
@@ -46,6 +48,13 @@
 			font-size: 20px;
 			border-radius: 10px;
 			font-family: helvetica;
+		}
+
+		#jamcat {
+			border: green;
+			height: 380px;
+			width: 460px;
+      float: right;
 		}
 
 		#cimp {
@@ -65,18 +74,16 @@
 		p {
 			animation-name: bounce;
 			animation-duration: 1.8s;
-      animation-iteration-count: infinite;
-      animation-timing-function: ease-in-out, step-start;
-      color: red;
-      background-color: white;
-      border: solid;
-      font-family: sans serif;
-      font-size: 22px;
+			animation-iteration-count: infinite;
+			animation-timing-function: ease-in-out, step-start;
+			color: red;
+			background-color: white;
+			border: solid;
+			font-family: sans serif;
+			font-size: 22px;
 		}
-    #jamcat {
-      border: green;
-      height: 380px;
-      width: 460px;
+    dropdowntwo {
+      float: right;
     }
 
 		@keyframes bounce {
@@ -150,7 +157,7 @@
           </div>
 
           <section>
-           <select name= "dropdown2" > 
+           <select name= "dropdowntwo" > 
              <option>Did you like these jamz?</option>
              <option>Yes.</option>
             
