@@ -19,9 +19,9 @@ After:
 | No podcast gif | Added and resized |
 | No art gif | Added Art gif |
 
-
 ## Technologies used
 
 - HTML
 - CSS
-- Javascript
+- Javascript 
+
