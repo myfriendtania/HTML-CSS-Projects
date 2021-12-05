@@ -13,7 +13,7 @@ After:
 *Updated 4 Dec 2021
 
 | Before | After |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | Large custom buttons | Replaced with clickable badges |
 | Dancing cat gif | Removed |
 | No podcast gif | Added and resized |
