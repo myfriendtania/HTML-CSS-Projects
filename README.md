@@ -18,6 +18,7 @@ After:
 | Dancing cat gif | Removed |
 | No podcast gif | Added and resized |
 | No art gif | Added Art gif |
+| space background | pastel bubbles background |
 
 ## Technologies used
 
