@@ -1,0 +1,163 @@
+@font-face {
+			font-family: oldeenglishregular;
+			src: url("oldeenglishregular.ttf");
+		}
+    gump {
+      padding-top: 40px;
+    }
+		body {
+      text-align: center;
+			text-shadow: 8px 8px 8px grey;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      background-image: url(images/pastel.jpg);
+      background-position: center;
+			min-height: 100vh;
+			background-size: cover;
+      padding-left: 40px;
+      padding-right: 40px;
+		}
+    h3 {
+			display: center;
+      color: skyblue;
+			font-size: 0px;
+      font-family: monospace;
+		}
+    #depop {
+      height: 180px;
+      width: 180px;
+    }
+    h5 {
+    background: red;
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+      float: center;
+    }
+    #h6 {
+      padding-top: 140px;
+      align: center;
+      width: 100%;
+    }
+    #art {
+      width: 220px;
+      height: 300px;
+    }
+		#cat {
+      width: 350px;
+			heigth: 440px;
+			border-radius: 100%;
+			border: 15px dotted yellow;
+			float: left;
+			padding-float: 10px;
+		}
+		#jamcat {
+      height: 200px;
+			width: 260px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
+		}
+    #poggers {
+      width: 250px;
+      heigth: 300px;
+    }
+    #spinnycat {
+      height: 190px;
+      width: 200px;
+      border: lightpink solid;
+    }
+    #danieljs {
+      height: 180px;
+      width: 180px;
+      padding: 0.5em;
+      line-height: 200px;
+    }
+    #amazonwl {
+      width: 200px;
+      height: 150px;
+    }
+    #mint {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+      height: 200px;
+      width: 150px;
+    }
+		#cimp {
+			font-size: 15px;
+			font-family: arial;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+		}
+		#select {
+			text-align: center;
+			padding-top: 10px;
+			background-color: red;
+		}
+    #iframe {
+      border: powderblue solid;
+    }
+    #tiktok {
+      width: 180px;
+      height: 180px;
+    }
+    #popl {
+      width: 160px;
+      height: 160px;
+    }
+    #podcast {
+      width: 350px;
+      height: 180px;
+      padding-bottom: 10px;
+    }
+    #selfcare {
+      width: 250px;
+      height: 250px;
+    }
+    #tumblr {
+      width: 200px;
+      height: 240px;
+    }
+    #ebay {
+      width: 200px;
+      height: 220px;
+    }
+    #parade {
+      width: 300px;
+      height: 280px;
+    }
+		select[name="dropdowntwo"] {
+      text-align: center;
+      display: block;
+      margin: 2rem auto;
+		}
+		@keyframes bounce {
+			0% {
+				transform: scale(1, 1) translateY(0);
+			}
+			10% {
+				transform: scale(1.1, .9) translateY(0);
+			}
+			30% {
+				transform: scale(.9, 1.1) translateY(-100px);
+			}
+			50% {
+				transform: scale(1.05, .95) translateY(0);
+			}
+			57% {
+				transform: scale(1, 1) translateY(-7px);
+			}
+			64% {
+				transform: scale(1, 1) translateY(0);
+			}
+			100% {
+				transform: scale(1, 1) translateY(0);
+			}
+		}
