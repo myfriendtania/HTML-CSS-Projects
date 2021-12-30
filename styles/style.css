@@ -48,7 +48,7 @@
     }
 		#cat {
       width: 350px;
-			heigth: 440px;
+			height: 440px;
 			border-radius: 100%;
 			border: 15px dotted yellow;
 			float: left;
@@ -62,9 +62,9 @@
       padding-left: 20px;
       padding-right: 20px;
 		}
-    #poggers {
+    #discord {
       width: 250px;
-      heigth: 300px;
+      height: 250px;
     }
     #spinnycat {
       height: 190px;
@@ -89,9 +89,9 @@
       height: 200px;
       width: 150px;
     }
-		#cimp {
-			font-size: 15px;
-			font-family: arial;
+		#analyze {
+			height: 180px;
+      width: 180px;
 			padding-top: 10px;
 			padding-bottom: 10px;
 			padding-left: 10px;
@@ -109,8 +109,8 @@
       height: 180px;
     }
     #popl {
-      width: 160px;
-      height: 160px;
+      width: 200px;
+      height: 200px;
     }
     #podcast {
       width: 350px;
