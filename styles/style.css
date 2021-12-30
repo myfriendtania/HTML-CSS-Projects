@@ -58,9 +58,9 @@
 			float: left;
 			padding-float: 10px;
 		}
-		#jamcat {
-      height: 200px;
-			width: 260px;
+		#spotify {
+      height: 210px;
+			width: 210px;
       padding-top: 20px;
       padding-bottom: 20px;
       padding-left: 20px;
@@ -70,9 +70,9 @@
       width: 250px;
       height: 250px;
     }
-    #spinnycat {
+    #animevinyl {
       height: 190px;
-      width: 200px;
+      width: 250px;
       padding-top: 10px;
 			padding-bottom: 10px;
 			padding-left: 10px;
@@ -81,8 +81,10 @@
     #danieljs {
       height: 180px;
       width: 180px;
-      padding: 0.5em;
-      line-height: 200px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #amazonwl {
       width: 200px;
@@ -93,8 +95,8 @@
       padding-bottom: 10px;
       padding-left: 10px;
       padding-right: 10px;
-      height: 200px;
-      width: 150px;
+      height: 280px;
+      width: 195px;
     }
 		#analyze {
 			height: 180px;
@@ -136,6 +138,10 @@
     #selfcare {
       width: 250px;
       height: 250px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #tumblr {
       width: 240px;
