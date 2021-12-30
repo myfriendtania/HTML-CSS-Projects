@@ -45,6 +45,10 @@
     #art {
       width: 220px;
       height: 300px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
 		#cat {
       width: 350px;
@@ -69,7 +73,10 @@
     #spinnycat {
       height: 190px;
       width: 200px;
-      border: lightpink solid;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #danieljs {
       height: 180px;
@@ -99,10 +106,12 @@
 		#select {
 			text-align: center;
 			padding-top: 10px;
-			background-color: red;
 		}
     #iframe {
-      border: powderblue solid;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #tiktok {
       width: 180px;
@@ -111,23 +120,38 @@
     #popl {
       width: 200px;
       height: 200px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #podcast {
       width: 350px;
       height: 180px;
-      padding-bottom: 10px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #selfcare {
       width: 250px;
       height: 250px;
     }
     #tumblr {
-      width: 200px;
+      width: 240px;
       height: 240px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #ebay {
       width: 200px;
       height: 220px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #parade {
       width: 300px;
