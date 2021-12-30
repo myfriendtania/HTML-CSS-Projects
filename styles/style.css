@@ -148,6 +148,14 @@
 			padding-left: 10px;
       padding-right: 10px;
     }
+    #glossier {
+      width: 250px;
+      height: 250px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
+    }
     #selfcare {
       width: 250px;
       height: 250px;
@@ -157,8 +165,8 @@
       padding-right: 10px;
     }
     #tumblr {
-      width: 240px;
-      height: 240px;
+      width: 210px;
+      height: 210px;
       padding-top: 10px;
 			padding-bottom: 10px;
 			padding-left: 10px;
@@ -170,6 +178,30 @@
 			padding-top: 10px;
 			padding-bottom: 10px;
 			padding-left: 10px;
+    }
+    #facebook {
+      width: 210px;
+      height: 210px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
+    }
+    #reddit {
+      width: 250px;
+      height: 150px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
+    }
+    #tattoo {
+      width: 250px;
+      height: 250px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     #ebay {
       width: 200px;
