@@ -236,14 +236,21 @@
       height: 150px;
       width: 250px;
     }
-    #rakuten {
+    #moto {
       width: 280px;
-      height: 280px;
+      height: 180px;
       padding-top: 10px;
 			padding-bottom: 10px;
 			padding-left: 10px;
       padding-right: 10px;
-
+    }
+    #rakuten {
+      width: 220px;
+      height: 220px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
 		select[name="dropdowntwo"] {
       text-align: center;
