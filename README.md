@@ -26,3 +26,4 @@ After:
 - CSS
 - Javascript 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c4b4f65-8abc-4c09-bea9-67448c442360/deploy-status)](https://app.netlify.com/sites/myfriendtania-page/deploys)
