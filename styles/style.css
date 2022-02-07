@@ -22,6 +22,14 @@
 			font-size: 0px;
       font-family: monospace;
 		}
+    #journalsad {
+      height: 440px;
+      width: 280px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
     #depop {
       height: 180px;
       width: 180px;
