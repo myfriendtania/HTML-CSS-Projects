@@ -69,6 +69,10 @@
     #discord {
       width: 250px;
       height: 250px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px; 
     }
     #animevinyl {
       height: 190px;
@@ -137,6 +141,14 @@
 			padding-left: 10px;
     }
     #iframe {
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
+    }
+    #ettika {
+      height: 300px;
+      width: 300px;
       padding-top: 10px;
 			padding-bottom: 10px;
 			padding-left: 10px;
