@@ -31,8 +31,12 @@
       padding-right: 10px;
     }
     #depop {
-      height: 180px;
-      width: 180px;
+      height: 280px;
+      width: 280px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
     }
     h5 {
     background: red;
