@@ -31,7 +31,12 @@
       padding-right: 10px;
     }
     #modelcv {
-      
+      height: 440px;
+      width: 280px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
     }
     #depop {
       height: 280px;
