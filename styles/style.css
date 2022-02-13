@@ -3,7 +3,7 @@
 			src: url("oldeenglishregular.ttf");
 		}
     gump {
-      padding-top: 40px;
+      padding-top: 60px;
     }
 		body {
       text-align: center;
@@ -30,7 +30,15 @@
       padding-left: 10px;
       padding-right: 10px;
     }
-    #modelcv {
+    #venmo {
+      height: 280px;
+      width: 280px;
+      padding-top: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+      padding-right: 10px;
+    }
+      #modelcv {
       height: 440px;
       width: 280px;
       padding-top: 10px;
