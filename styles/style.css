@@ -54,6 +54,17 @@
 			padding-left: 10px;
       padding-right: 10px;
     }
+    h1 {
+    padding-top: 50px;
+    background: red;
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+      float: center;
+    }
     h5 {
     background: red;
     background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
@@ -62,7 +73,6 @@
     background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 20px;
       float: center;
     }
     #h6 {
