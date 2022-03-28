@@ -1,5 +1,8 @@
-#body {
-    margin: 0;
-    background-image: url(..images/pastel.jpg);
-    background-position: center;
-  }
+body {
+      background-image: url(../images/pastel.jpg);
+      background-position: center;
+			min-height: 100vh;
+			background-size: cover;
+      padding-left: 40px;
+      padding-right: 40px;
+		}
