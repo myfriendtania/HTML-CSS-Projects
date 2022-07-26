@@ -15,7 +15,7 @@ After:
 
 <img src= "https://user-images.githubusercontent.com/20519161/160497209-f1f7c610-170f-4bb5-826b-e583cc75beef.png" width="400px" height="250px">
 
-<img width="1110" alt="Screen Shot 2022-07-26 at 14 29 58" src="https://user-images.githubusercontent.com/20519161/181097390-4b97e350-c909-4e0a-8804-8bdf94a05a4d.png">
+<img width="1110" alt="Screen Shot 2022-07-26 at 14 29 58" src="https://user-images.githubusercontent.com/20519161/181097390-4b97e350-c909-4e0a-8804-8bdf94a05a4d.png" width="400px" height="250px">
 *Updated 26 July 2022
 
 | Before | After |
