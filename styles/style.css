@@ -6,8 +6,12 @@
       height: 350px;
       width: 240px;
       margin: 0 auto;
-      border: 8px solid goldenrod;
+      border: 8px solid pink;
       padding: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
     }
 		body {
       text-align: center;
