@@ -15,3 +15,7 @@ body {
 #blogtopper {
   justify-content: center;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: 80px 200px auto 40px;
+}
