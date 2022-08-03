@@ -10,12 +10,11 @@ body {
 #typing {
   display: flex;
   justify-content: center;
-  padding-top: 10px;
 }
-#blogtopper {
-  justify-content: center;
-}
+
+/*
 .grid-container {
   display: grid;
   grid-template-columns: 80px 200px auto 40px;
 }
+*/
