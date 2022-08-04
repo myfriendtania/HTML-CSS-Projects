@@ -112,10 +112,10 @@
     }
     h5 {
     background: red;
-    background: -webkit-linear-gradient(left, red, orange , gold, green, skyblue, blue, violet);
-    background: -o-linear-gradient(right, red, orange, gold, green, skyblue, blue, violet);
-    background: -moz-linear-gradient(right, red,  orange, gold, green, skyblue, blue, violet);
-    background: linear-gradient(to right, red orange , gold, green, skyblue, blue, violet);
+    background: -webkit-linear-gradient(left, red, orange , yellow, green, skyblue, blue, violet);
+    background: -o-linear-gradient(right, red, orange, yellow, green, skyblue, blue, violet);
+    background: -moz-linear-gradient(right, red,  orange, yellow, green, skyblue, blue, violet);
+    background: linear-gradient(to right, red orange , yellow, green, skyblue, blue, violet);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
       float: center;
