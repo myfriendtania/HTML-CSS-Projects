@@ -110,7 +110,7 @@
     -webkit-text-fill-color: transparent;
       float: center;
     }
-    h5 {
+    h2 {
     background: red;
     background: -webkit-linear-gradient(left, red, orange , yellow, green, skyblue, blue, violet);
     background: -o-linear-gradient(right, red, orange, yellow, green, skyblue, blue, violet);
