@@ -23,6 +23,7 @@
       padding-left: 60px;
       padding-right: 60px;
 		}
+    
     /*
       h3 {
 			display: center;
@@ -30,20 +31,12 @@
 			font-size: 0px;
       font-family: monospace;
 		}
-*/
-    #journalsad {
-      height: 440px;
-      width: 280px;
-      padding-top: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;
-      padding-right: 10px;
-    }
-    #pvamb {
-      height: 450px;
-      width: 460px;
+    */
+    #technology {
+      
     }
 
+    /* clients */
     #txsb {
       height: 100px;
       width: 180px;
@@ -69,38 +62,7 @@
 			padding-left: 10px;
       padding-right: 10px;
 }
-    #elpha {
-      height: 180px;
-      width: 280px;
-      padding-top: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;
-      padding-right: 10px;
-    }
-    #venmo {
-      height: 180px;
-      width: 280px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #modelcv {
-      height: 440px;
-      width: 280px;
-      padding-top: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;
-      padding-right: 10px;
-    }
-    #depop {
-      height: 280px;
-      width: 280px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
+
     h1 {
     padding-top: 60px;
     background: red;
@@ -126,256 +88,7 @@
       padding-top: 140px;
       align: center;
       width: 100%;
-    }
-    #art {
-      width: 220px;
-      height: 300px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-		#spotify {
-      height: 210px;
-			width: 210px;
-      padding-top: 20px;
-      padding-bottom: 20px;
-      padding-left: 20px;
-      padding-right: 20px;
-		}
-    #discord {
-      width: 250px;
-      height: 250px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px; 
-    }
-    #animevinyl {
-      height: 190px;
-      width: 250px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-
-    #pinterest {
-      height: 160px;
-      width: 160px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #stickermule {
-      height: 230px;
-      width: 230px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #fetchrewards {
-      height: 230px;
-      width: 230px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #amazonwl {
-      width: 200px;
-      height: 150px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #mint {
-      padding-top: 10px;
-      padding-bottom: 10px;
-      padding-left: 10px;
-      padding-right: 10px;
-      height: 280px;
-      width: 195px;
-    }
-		#analyze {
-			height: 200px;
-      width: 220px;
-			padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-		}
-
-    #technology {
-			height: 200px;
-      width: 320px;
-			padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      border: 8px solid gold;
-		}
-    #procreate {
-      width: 180px;
-      height: 180px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #storefront {
-      height: 280px;
-      width: 280px;
-			padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-    }
-    #iframe {
-      
-    }
-    #ettika {
-      height: 300px;
-      width: 300px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #bestmoments {
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #tiktok {
-      width: 180px;
-      height: 180px;
-    }
-    #popl {
-      width: 290px;
-      height: 290px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #podcast {
-      width: 350px;
-      height: 180px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #glossier {
-      width: 250px;
-      height: 250px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #selfcare {
-      width: 250px;
-      height: 250px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #gopuff {
-      width: 150px;
-      height: 350px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #tumblr {
-      width: 210px;
-      height: 210px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #twitter {
-      height: 180px;
-      width: 180px;
-			padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-    }
-    #facebook {
-      width: 210px;
-      height: 210px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #reddit {
-      width: 250px;
-      height: 150px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #tattoo {
-      width: 250px;
-      height: 250px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #ebay {
-      width: 200px;
-      height: 220px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #parade {
-      width: 300px;
-      height: 280px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #paypal {
-      align: center;
-      height: 150px;
-      width: 250px;
-    }
-    #fiverr {
-      width: 130px;
-      height: 140px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #moto {
-      width: 280px;
-      height: 180px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
-    #rakuten {
-      width: 220px;
-      height: 220px;
-      padding-top: 10px;
-			padding-bottom: 10px;
-			padding-left: 10px;
-      padding-right: 10px;
-    }
+    }  
 		/* @keyframes bounce {
 			0% {
 				transform: scale(1, 1) translateY(0);
@@ -399,4 +112,4 @@
 				transform: scale(1, 1) translateY(0);
 			}
       */
-		}
+		
