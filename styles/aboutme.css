@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/aboutmewall.webp);
+    background-position: center;
+    min-height: 100vh;
+    background-size: cover;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h2 {
+    background: red;
+    background: -webkit-linear-gradient(left, orange, yellow, green, skyblue, blue, violet);
+    background: -o-linear-gradient(right, orange, yellow, green, skyblue, blue, violet);
+    background: -moz-linear-gradient(right, orange, yellow, green, skyblue, blue, violet);
+    background: linear-gradient(to right, orange, yellow, green, skyblue, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    float: center;
+}
+
+/*
+.grid-container {
+display: grid;
+grid-template-columns: 80px 200px auto 40px;
+}
+*/
