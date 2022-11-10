@@ -12,6 +12,10 @@ body {
   justify-content: center;
 }
 
+#comingsoon {
+  display: flex;
+  justify-content: center;
+}
 /*
 .grid-container {
   display: grid;
