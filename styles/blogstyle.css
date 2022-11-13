@@ -7,11 +7,6 @@ body {
       padding-right: 40px;
 		}
 
-#typing {
-  display: flex;
-  justify-content: center;
-}
-
 #comingsoon {
   display: flex;
   justify-content: center;
