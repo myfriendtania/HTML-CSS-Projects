@@ -20,6 +20,9 @@ h2 {
 #aboutme {
     align: center";
 }
+.contentBox {
+    column-gap: 40px;
+}
 
 /*
 .grid-container {
