@@ -1,11 +1,14 @@
 body {
-    background-image: url(../images/aboutmewall.webp);
+    text-align: center;
+          text-shadow: 8px 8px 8px grey;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-image: url(../images/butterflyforsite.png);
     background-position: center;
-    min-height: 100vh;
-    background-size: cover;
-    padding-left: 40px;
-    padding-right: 40px;
-}
+          min-height: 100vh;
+          background-size: cover;
+    padding-left: 60px;
+    padding-right: 60px;
+      }
 
 h2 {
     background: red;
@@ -17,14 +20,3 @@ h2 {
     -webkit-text-fill-color: transparent;
     float: center;
 }
-#aboutme {
-    align: center";
-}
-
-
-/*
-.grid-container {
-display: grid;
-grid-template-columns: 80px 200px auto 40px;
-}
-*/
