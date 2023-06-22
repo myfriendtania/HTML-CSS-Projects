@@ -11,13 +11,14 @@
 
 body {
   text-align: center;
-  text-shadow: 8px 8px 8px grey;
-  background-image: url(../images/90sbackground.jpg);
+  text-shadow: 8px 8px 8px;
+  background-image: url(../images/clearpaint.png);
   background-position: center;
+  background-color: #FFDBDA;
   min-height: 100vh;
   background-size: cover;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 /*
