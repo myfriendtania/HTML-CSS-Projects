@@ -16,9 +16,13 @@ After:
 <img src= "https://user-images.githubusercontent.com/20519161/160497209-f1f7c610-170f-4bb5-826b-e583cc75beef.png" width="400px" height="250px">
 
 <img src="https://user-images.githubusercontent.com/20519161/181097390-4b97e350-c909-4e0a-8804-8bdf94a05a4d.png" width="400px" height="250px">
-*Updated 26 July 2022
+
+
+
 
 <img src="https://github.com/myfriendtania/HTML-CSS-Projects/assets/20519161/b2dbd9dd-75b5-4c55-81e6-a2f09d2aef8f" width="400px" height="250px">
+*Updated 26 July 2022
+
 
 | Before | After |
 | :-----------: | :-----------: |
