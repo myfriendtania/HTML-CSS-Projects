@@ -26,6 +26,7 @@ After:
 
 | Before | After |
 | :-----------: | :-----------: |
+| haven't added in years | checkingin on website |
 | Large custom buttons | Replaced with clickable badges |
 | Dancing cat gif | Removed |
 | No podcast gif | Added and resized |
